@@ -133,7 +133,7 @@ pip install -r requirements.txt
 **Passo 4: Treine o Modelo**
 Execute o script de treinamento para gerar os arquivos `.pkl` na pasta `pickle/`.
 ```bash
-python train_and_dump_model.py
+python gerador_pkl.py
 ```
 
 **Passo 5: Execute o App Streamlit**
