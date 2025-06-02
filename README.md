@@ -39,7 +39,7 @@ seu_projeto/
 |-- app.py                     # Script principal do Streamlit
 |-- incendios.csv              # Seu dataset
 |-- requirements.txt           # Dependências do Python
-|-- train_and_dump_model.py    # Script para treinar e salvar o modelo
+|-- gerador_pkl.py             # Script para treinar e salvar o modelo
 `-- README.md                  # Este arquivo
 ```
 
