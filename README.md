@@ -9,7 +9,7 @@
 
 # **Simulador de Intensidade de Incêndios Florestais**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://link-para-seu-app-streamlit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gs-front1.streamlit.app)
 
 ## 📜 Visão Geral do Projeto
 
